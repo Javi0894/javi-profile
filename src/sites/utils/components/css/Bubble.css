@@ -1,0 +1,29 @@
+div#container-bubble-speech
+{
+    position: absolute;
+    height: 270px;
+    width: 400px;
+}
+
+div#bubble-speech
+{
+    padding: 10px;
+    position: absolute;
+    border-radius: 10px;
+    top: 10px;
+    left: 5px;
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(78, 154, 6);
+    background-color: black;
+   /* background-color: white; */
+};
+
+div#bubble-tip
+{
+    width: 30px;
+    height: 30px;
+    border: 2px solid rgb(78, 154, 6);
+    background-color: black;
+}
+
